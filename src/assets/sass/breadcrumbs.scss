@@ -1,0 +1,11 @@
+@import './definitions.scss';
+
+.breadcrumb{
+    padding: 0rem 0rem;
+    li{
+        a{
+            text-transform: capitalize;
+            color:$thirdColor;
+        }
+    }
+}

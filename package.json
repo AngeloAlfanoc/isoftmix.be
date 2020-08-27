@@ -1,0 +1,79 @@
+{
+  "name": "isoftmix",
+  "version": "1.4.5",
+  "private": false,
+  "dependencies": {
+    "@craco/craco": "^5.6.4",
+    "@fortawesome/fontawesome-free": "^5.12.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.26",
+    "@fortawesome/free-brands-svg-icons": "^5.12.1",
+    "@fortawesome/free-solid-svg-icons": "^5.12.1",
+    "@fortawesome/react-fontawesome": "^0.1.8",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "animate-hover": "^1.1.5",
+    "animate.css": "^3.7.2",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "bootstrap-material-design": "^4.1.3",
+    "bootstrap-utilities": "^4.1.3",
+    "gdpr-cookie-notice": "0.0.2",
+    "react": "^16.13.1",
+    "react-anchor-link-smooth-scroll": "^1.0.12",
+    "react-animate-on-scroll": "^2.1.5",
+    "react-burger-menu": "^2.6.13",
+    "react-cookie-consent": "^3.0.0",
+    "react-device-detect": "^1.12.1",
+    "react-dom": "^16.13.1",
+    "react-easy-breadcrumb": "^1.0.0",
+    "react-ga": "^2.7.0",
+    "react-google-recaptcha": "^2.0.1",
+    "react-hamburger-menu": "^1.1.1",
+    "react-helmet": "^6.0.0",
+    "react-image-lightbox": "^5.1.1",
+    "react-intersection-observer": "^8.25.2",
+    "react-lightbox-component": "^1.2.1",
+    "react-loader": "^2.4.7",
+    "react-loader-spinner": "^3.1.14",
+    "react-parallax": "^3.0.3",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "react-slick": "^0.25.2",
+    "react-viewport-size": "^1.7.0",
+    "reactjs-popup": "^1.5.0",
+    "simple-react-lightbox": "^2.8.0-5",
+    "slick": "^1.12.2",
+    "slick-carousel": "^1.8.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "start-craco": "craco start",
+    "build": "react-scripts build",
+    "build-craco": "craco build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^2.2.0",
+    "fslightbox-react": "^1.4.9",
+    "glob-all": "^3.2.1",
+    "path": "^0.12.7",
+    "purgecss-webpack-plugin": "^2.2.0"
+  }
+}

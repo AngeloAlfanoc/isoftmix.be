@@ -1,0 +1,17 @@
+@import './definitions.scss';
+
+
+.product-detail{
+    img{
+        &:hover{
+            cursor: zoom-in;
+        }
+    }
+    span{
+        color:#707070;
+    }
+
+ h1{
+     color: $secondaryColor;
+ }
+}

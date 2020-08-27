@@ -1,0 +1,27 @@
+@import './definitions.scss';
+
+footer {
+    background-color: $thirdColor;
+    div {
+        a{
+            color: white;
+            &:hover{
+                color:white;
+                text-decoration: underline;
+            }
+        }
+        h3 {
+            color: white;
+        }
+        padding: 5px;
+        ul {
+            list-style-type: none;
+            padding: 0;
+            li {
+                a {
+                    color: white;
+                }
+            }
+        }
+    }
+}

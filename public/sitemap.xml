@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://www.isoftmix.be/</loc>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://www.isoftmix.be/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.isoftmix.be/eng"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://www.isoftmix.be/de"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://www.isoftmix.be/fr"/>
+    </url>
+    <url>
+        <loc>https://www.isoftmix.be/about</loc>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://www.isoftmix.be/about"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.isoftmix.be/eng/about"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://www.isoftmix.be/de/uber"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://www.isoftmix.be/fr/a-propos"/>
+    </url>
+    <url>
+        <loc>https://www.isoftmix.be/producten</loc>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://www.isoftmix.be/producten"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.isoftmix.be/eng/products"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://www.isoftmix.be/de/produkte"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://www.isoftmix.be/fr/produits"/>
+    </url>
+    <url>
+        <loc>https://www.isoftmix.be/testimonials</loc>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://www.isoftmix.be/testimonials"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.isoftmix.be/eng/testimonials"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://www.isoftmix.be/de/referenzen"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://www.isoftmix.be/fr/temoignages"/>
+    </url>
+    <url>
+        <loc>https://www.isoftmix.be/contact</loc>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://www.isoftmix.be/contact"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.isoftmix.be/eng/contact"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://www.isoftmix.be/de/kontakt"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://www.isoftmix.be/fr/contact"/>
+    </url>
+</urlset>

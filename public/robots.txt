@@ -1,0 +1,3 @@
+Sitemap: https://www.isoftmix.be/sitemap.xml
+User-agent:*
+Disallow:beheer.isoftmix.be, admin.isoftmix.be, isoftmix.be/admin
